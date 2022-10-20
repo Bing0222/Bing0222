@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi everyone 👋
+## Welcome to my Repository!
 
+- Here I have collected my personal projects!
+- I am intereted in deep-learning and computer vision!
+- Still learning and coding!
+- Have a look around!! 🙌🏻🙌🏻😜
 <!--
 **Bing0222/Bing0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
