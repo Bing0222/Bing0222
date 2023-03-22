@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/Bing0222/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Bing0222/count.tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bing0222&layout=compact&theme=svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bing0222&layout=compact&theme=tokyonight)
