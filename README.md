@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 ![Visitor Count](https://profile-counter.glitch.me/Bing0222/count.svg)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bing0222&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bing0222&layout=compact&theme=svg)
