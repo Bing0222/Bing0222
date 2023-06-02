@@ -2,7 +2,8 @@
 ## Welcome to my Repository!
 
 - Here I have collected my personal projects!
-- I am intereted in deep-learning and computer vision!
+- I am intereted in machine learning and deep-learning in computer vision!
+- Write some data analyze project in SQL and python!
 - Still learning and coding!
 - Have a look around!! 🙌🏻🙌🏻😜
 <!--
